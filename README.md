@@ -4,7 +4,7 @@
 * template.buffer(path,data)
 
 ```javascript
-const csv = require('xhtml-template');
+const template = require('xhtml-template');
 var str1=template(path,{content:""});
 var str2=template.format(path,{content:""});
 var buffer=template.buffer(path,{content:""});
