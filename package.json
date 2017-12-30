@@ -1,0 +1,14 @@
+{
+  "name": "xhtml-template",
+  "version": "1.0.0",
+  "description": "nodejs html template",
+  "main": "index.js",
+  "scripts": {
+    "test": "templates"
+  },
+  "keywords": [
+    "html templates"
+  ],
+  "author": "dengrc",
+  "license": "ISC"
+}
