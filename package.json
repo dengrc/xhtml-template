@@ -1,6 +1,6 @@
 {
   "name": "xhtml-template",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "nodejs html template",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,16 @@
   "keywords": [
     "html templates"
   ],
-  "author": "dengrc",
-  "license": "ISC"
+  "author": {
+    "name": "dengrc",
+    "url": "https://github.com/dengrc"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengrc/xhtml-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dengrc/xhtml-template.git"
+  }
 }
